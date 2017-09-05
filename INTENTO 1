@@ -1,0 +1,6 @@
+import numpy as np
+import pylab as pl
+x=[0,1,2,3,4]
+y=[0,7.25,9.5,8,7.6]
+pl.plot(x, y, 'ro')
+pl savefig ('promedio.png')
